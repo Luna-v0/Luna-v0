@@ -8,11 +8,10 @@ I am a Computer Science graduate from **PUC-Rio**, currently pursuing my Master�
 * 🎓 **Education:** B.S. in Computer Science (PUC-Rio) 
 * 📚 **Current:** M.Sc. in Data Science (PUC-Rio)
 * 🧠 **Interests:** Reinforcement Learning (RL), Machine Learning (ML), and Deep Learning.
-* 🛠️ **Working on:** [XAI (Explainable AI)]
+* 🛠️ **Working on:** XAI (Explainable AI)
 
 ---
 
-### 🔗 My Work
 👉 **[View My Portfolio](https://luna-v0.github.io/portfolio/)**
 
 ---
